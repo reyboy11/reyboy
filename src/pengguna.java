@@ -53,7 +53,7 @@ public class pengguna {
         } else {
             System.out.println("Panjang NIM tidak valid.");
         }
-    }
+    } // lppopop
 
     public static pengguna createpengguna() {
         return new pengguna();
